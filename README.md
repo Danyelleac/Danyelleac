@@ -1,6 +1,6 @@
 ### Oi👋🏽 Eu sou a Danyelle Amarante 
 
--💻Futura Dev.( Estou no inicio da minha transição de carreira)
+-💻Futura Dev.(iniciando minha transição de carreira👷🏽‍♀️⏭👩🏽‍💻)
 <p>-😊Pronome:ela/dela </p>
 
 <div align="center">
