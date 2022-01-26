@@ -1,4 +1,4 @@
-### Oi👋🏽 Eu sou a Danyelle Amarante 
+### Oi👋🏽 Eu sou a Dany
 
 -💻Futura Dev.(em transição de carreira👷🏽‍♀️⏭👩🏽‍💻)
 <p>-😊Pronome:ela/dela </p>
