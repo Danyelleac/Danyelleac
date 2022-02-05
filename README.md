@@ -2,6 +2,7 @@
 
 -💻Futura Dev.(em transição de carreira👷🏽‍♀️⏭👩🏽‍💻)
 <p>-😊Pronome:ela/dela </p>
+<p>Faço parte do Programa Desenvolve do Grupo Boticário e do Bootcamp Java Web da Generation Brasil</p>
 
 <div align="center">
   <a href="https://github.com/danyelleac">
