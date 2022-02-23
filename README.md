@@ -26,8 +26,7 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
+
   
    ![Snake animation](https://github.com/Danyelleac/Danyelleac/blob/output/github-contribution-grid-snake.svg)
  
