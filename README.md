@@ -9,6 +9,8 @@
 💻 | Sou uma Desenvolvedora Full Stack 👨🏾‍💻</br>
 💖 | Apaixonada por Técnologia 🔬</br>
 🧠 | Formada em engenharia Civil 👷🎓</br>
+</br>
+<hr>
 
 
 <div align="center">
