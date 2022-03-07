@@ -1,9 +1,14 @@
-### Hello World ou Olá Mundo!!
-Sou a Dany
+<img align="center" height="300" src="https://user-images.githubusercontent.com/90638175/156950735-2277ea99-428a-4391-ac41-9b54eb1d3420.png"/>
 
--💻Futura Dev.(em transição de carreira👷🏽‍♀️⏭👩🏽‍💻)
-<p>-😊Pronome:ela/dela </p>
-<p>Faço parte do Programa Desenvolve do Grupo Boticário e do Bootcamp Java Web da Generation Brasil</p>
+
+
+<h1>Um pouco sobre mim:</h1>
+🌎 | Brasileira 🇧🇷</br>
+👩 | Pronome ela/dela</br>
+🏫 | Bootcamp Java Web Generation e Desevolve Full Stack O Boticário 🎓</br>
+💻 | Sou uma Desenvolvedora Full Stack 👨🏾‍💻</br>
+💖 | Apaixonada por Técnologia 🔬</br>
+🧠 | Formada em engenharia Civil 👷🎓</br>
 
 
 <div align="center">
@@ -34,5 +39,8 @@ Sou a Dany
  
  
 </div>
+  
+ 
+ <p> Perfil inspirado no da @rafaballerini  e  no do @rodrigsmor 
   
 
