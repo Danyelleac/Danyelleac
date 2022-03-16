@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/90638175/158688724-b8311c1c-b4fb-467d-aac0-8fd641038faf.png"/>
+<img src="https://user-images.githubusercontent.com/90638175/158690960-739c11a7-644f-49be-a8bc-d89e0770fb32.png"/>
 
 
 
@@ -43,6 +43,6 @@
 </div>
   
  
- 🤝🏽🏽 | Perfil inspirado nos perfis da @rafaballerini e @rodrigsmor </br>
+🤝🏽 | Perfil inspirado nos perfis da @rafaballerini e @rodrigsmor </br>
   
 
