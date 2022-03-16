@@ -1,14 +1,14 @@
-<img height="200" width="900" src="https://user-images.githubusercontent.com/90638175/158684983-a9efddff-88e2-44e4-b696-f55f553429f6.png"/>
+<img src="https://user-images.githubusercontent.com/90638175/158688724-b8311c1c-b4fb-467d-aac0-8fd641038faf.png"/>
 
 
 
 <h1>Um pouco sobre mim:</h1>
 🌎 | Brasileira 🇧🇷</br>
-👩 | Pronome ela/dela</br>
-🏫 | Bootcamp Java Web Generation e Desevolve Full Stack O Boticário 🎓</br>
-💻 | Sou uma Desenvolvedora Full Stack 👨🏾‍💻</br>
-💖 | Apaixonada por Técnologia 🔬</br>
-🧠 | Formada em engenharia Civil 👷🎓</br>
+👩🏽 | Pronome ela/dela</br>
+🧠 | Bootcamp Java Web Generation e Desevolve Full Stack O Boticário🎓</br>
+💻 | Sou uma Desenvolvedora Full Stack🏿👩🏽‍💻</br>
+💖 | Apaixonada por Técnologia 💻🔌</br>
+🏫 | Formada em engenharia Civil👷🏽‍♀️🎓</br>
 </br>
 <hr>
 
@@ -43,6 +43,6 @@
 </div>
   
  
- <p> Perfil inspirado no da @rafaballerini  e  no do @rodrigsmor 
+ 🤝🏽🏽 | Perfil inspirado nos perfis da @rafaballerini e @rodrigsmor </br>
   
 
