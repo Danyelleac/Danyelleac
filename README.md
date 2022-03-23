@@ -6,10 +6,11 @@
 🌎 | Brasileira 🇧🇷</br>
 👩🏽 | Pronome ela/dela</br>
 🧠 | Bootcamp Java Web Generation e Desevolve Full Stack O Boticário🎓</br>
-💻 | Sou uma Desenvolvedora Full Stack🏿👩🏽‍💻</br>
+💻 | Desenvolvedora Full Stack em formação 🏿👩🏽‍💻</br>
 💖 | Apaixonada por Técnologia 💻🔌</br>
+🏫 | Cursando Analise e Desenvolvimento de Sistemas 👩🏽‍💻💻</br>
 🏫 | Formada em engenharia Civil👷🏽‍♀️🎓</br>
-</br>
+🤝🏽 | Desenvolvedora voluntária no Projeto Geração pela Geração 🚀</br>
 <hr>
 
 
