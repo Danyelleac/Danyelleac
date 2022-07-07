@@ -11,7 +11,7 @@
 🏫 | Formada em engenharia Civil👷🏽‍♀️🎓</br>
 
 <hr>
-  <img align="right" alt="Gif" height="150" style="border-radius:50px" src="https://i.imgur.com/NI7RqF1.gif">
+  <img align="right" alt="Gif" height="130" style="border-radius:50px" src="https://i.imgur.com/NI7RqF1.gif">
 
 <div align="center">
   <a href="https://github.com/Danyelleac">
