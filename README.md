@@ -1,6 +1,3 @@
-![Neutral Creative Professional LinkedIn Article Cover Image (1)](https://github.com/Danyelleac/Danyelleac/assets/90638175/b2b92200-6843-4586-93ba-be2dab1312b3)
-
-
 ## Quem eu sou:
 🌎 | Brasileira 🇧🇷</br>
 💑 | Casada </br>
